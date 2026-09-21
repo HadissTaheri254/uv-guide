@@ -4,7 +4,6 @@
 
 ---
 
-
 ## Table of Contents
 
 - [What is UV?](#1-what-is-uv)
