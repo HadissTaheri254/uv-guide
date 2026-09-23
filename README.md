@@ -3,7 +3,6 @@
 > A comprehensive, end-to-end guide to **UV**: what it is, installation, core concepts, project and dependency management, Python version management, comparison with other tools, and CI/CD usage.
 
 ---
-
 ## Table of Contents
 
 - [What is UV?](#1-what-is-uv)
