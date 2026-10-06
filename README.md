@@ -5,6 +5,7 @@
 ---
 ## Table of Contents
 
+
 - [What is UV?](#1-what-is-uv)
 - [Why UV? (Advantages over legacy tools)](#2-why-uv-advantages-over-legacy-tools)
 - [Installing UV](#3-installing-uv)
