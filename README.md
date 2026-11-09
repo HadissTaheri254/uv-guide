@@ -1,5 +1,4 @@
 # The Complete Guide to UV (Python Package & Project Manager)
-
 > A comprehensive, end-to-end guide to **UV**: what it is, installation, core concepts, project and dependency management, Python version management, comparison with other tools, and CI/CD usage.
 
 ---
